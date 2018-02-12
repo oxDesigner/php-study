@@ -1,2 +1,2 @@
 # php-study
-study php
+学习php的使用
